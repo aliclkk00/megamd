@@ -5,6 +5,7 @@ const config = {
     botName: process.env.BOT_NAME || 'hizliyimbot',
     botOwner: process.env.BOT_OWNER || 'Ali',
     ownerNumber: process.env.OWNER_NUMBER || '905342784211',
+    sudo: process.env.SUDO || '905342784211',
     author: process.env.AUTHOR || 'Ali',
     packname: process.env.PACKNAME || 'Ali',
     description: process.env.DESCRIPTION || 'hizli WhatsApp bot',
